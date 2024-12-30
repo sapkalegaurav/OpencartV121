@@ -1,0 +1,53 @@
+14:17:14.417 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Gaurav\eclipse-workspace\OpencartV121\crossbrowsertesting.xml"
+14:17:14.844 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Gaurav\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+14:17:22.430 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+14:17:22.977 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+14:17:23.924 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+14:17:23.928 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+14:17:25.817 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+14:17:25.868 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Account registration successful.
+14:17:25.870 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+14:18:23.389 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Gaurav\eclipse-workspace\OpencartV121\crossbrowsertesting.xml"
+14:18:23.798 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Gaurav\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+14:18:30.010 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+14:18:31.110 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+14:18:31.737 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+14:18:32.351 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+14:18:32.355 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+14:18:32.421 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+14:18:33.896 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+14:18:33.897 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+14:18:34.565 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+14:18:34.664 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Account registration successful.
+14:18:34.668 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+14:18:36.056 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+14:18:36.123 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Account registration successful.
+14:18:36.123 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+14:47:13.877 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Gaurav\eclipse-workspace\OpencartV121\master.xml"
+14:47:14.276 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Gaurav\eclipse-workspace\OpencartV121\master.xml
+
+14:48:20.866 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Gaurav\eclipse-workspace\OpencartV121\master.xml"
+14:48:21.270 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Gaurav\eclipse-workspace\OpencartV121\master.xml
+
+14:49:40.083 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Gaurav\eclipse-workspace\OpencartV121\master.xml"
+14:49:40.491 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Gaurav\eclipse-workspace\OpencartV121\master.xml
+
+14:50:00.918 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Gaurav\eclipse-workspace\OpencartV121\crossbrowsertesting.xml"
+14:50:01.324 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Gaurav\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+14:50:01.444 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+14:50:01.490 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Exception occurred: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+14:50:06.876 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+14:50:07.074 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+14:50:07.860 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+14:50:07.869 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+14:50:10.075 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+14:50:10.113 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Account registration successful.
